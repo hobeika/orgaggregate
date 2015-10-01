@@ -3,7 +3,7 @@
 #+OPTIONS: ^:{} authors:Thierry Banel, Michael Brand toc:nil
 
 Aggregating a table is creating a new table by computing sums,
-averages, and so on, out of material from the frist table.
+averages, and so on, out of material from the first table.
 
 This is the second version, with:
 - more flexibility for the formulas,
